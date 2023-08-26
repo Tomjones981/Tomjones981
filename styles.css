@@ -1,0 +1,35 @@
+/* Add your CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 5;
+    padding: 30px;
+  }
+  
+  header {
+    background-color: #360909;
+    color: #5dd8af;
+    text-align: left;
+    padding: 50px;
+  }
+  
+  nav ul {
+    list-style: bold;
+    padding: 50px;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 30px;
+  }
+  
+  nav a {
+    text-decoration: thick;
+    
+    color: #a10f0f;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    color: #0e4606;
+  }
+  
